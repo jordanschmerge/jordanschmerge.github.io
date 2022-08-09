@@ -1,3 +1,5 @@
-# Jordan Schmerge
+## Publications
 
-## PhD student, Colorado School of Mines
+- 1
+
+## Contact
