@@ -7,7 +7,9 @@
 
 ## Publications
 
-- 1
-- 2
+- *ELIχR: Eliminating Computation Redundancy in CNN-Based Video Processing*. RSDHA@SC 2021
+   Jordan Schmerge, Daniel Mawhirter, Connor Holmes, Jedidiah McClurg, Bo Wu
+- *ReGiS: Regular Expression Simplification via Rewrite-Guided Synthesis*. CoRR abs/2104.12039 (2021)
+   Miles Claver, Jordan Schmerge, Jackson Garner, Jake Vossen, Jedidiah McClurg
 
 ## Contact
